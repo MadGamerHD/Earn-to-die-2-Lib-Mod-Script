@@ -1,3 +1,5 @@
+Game Version 1.5.6
+
 arm64-v8a libEarnToDie2.so → these offsets/OG/MOD patches ✅
 armeabi-v7a libEarnToDie2.so → different patch set required ❌
 
