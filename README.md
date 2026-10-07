@@ -1,3 +1,6 @@
+arm64-v8a libEarnToDie2.so → these offsets/OG/MOD patches ✅
+armeabi-v7a libEarnToDie2.so → different patch set required ❌
+
 Earn to Die 2 — ".so" Modding Tool
 
 A lightweight Python script for modifying the "libEarnToDie2.so" library from Earn to Die 2 on Android using Pydroid 3.
